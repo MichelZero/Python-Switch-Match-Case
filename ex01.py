@@ -9,6 +9,7 @@
 # 
 
 ###   1   ###
+# forma tradicional de seleção python
 voto = input("informe seu voto: ")
 
 print("resposta 1")
